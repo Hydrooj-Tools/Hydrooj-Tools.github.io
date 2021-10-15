@@ -1,0 +1,9 @@
+* [概述](/Tutorials/概述.md)
+* 安装
+    - [剪贴板组件安装](/Tutorials/pastebin_install.md)
+* 卸载
+    - [剪贴板组件卸载](/Tutorials/pastebin_uninstall.md)
+* 更新
+    - [剪贴板组件更新](/Tutorials/pastebin_update.md)
+* 使用
+    - [剪贴板组件使用](/Tutorials/pastebin_use.md)
